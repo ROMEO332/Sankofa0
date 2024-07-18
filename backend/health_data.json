@@ -1,0 +1,147 @@
+[
+    {
+        "symptom": "ateetee",
+        "condition": "Headache",
+        "advice": "Fa ntɔre, ɛbɛboa wo ho."
+    },
+    {
+        "symptom": "afebrɛ",
+        "condition": "Fever",
+        "advice": "Tua nsu na nya ahome. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "sɛkɛ",
+        "condition": "Cough",
+        "advice": "Fa nsuo nnɔɔso na fa ntɔre. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "wobɔ nkuto",
+        "condition": "Hypertension",
+        "advice": "Sɔ nsu so na kɔhwɛ dɔkotani."
+    },
+    {
+        "symptom": "nsamanpa",
+        "condition": "Malaria",
+        "advice": "Fa edwuma ti deɛ dɔkotani aka."
+    },
+    {
+        "symptom": "nsuwa",
+        "condition": "Diabetes",
+        "advice": "Sɔ nsu so na di nkuto a ɛfata."
+    },
+    {
+        "symptom": "ɛho yɛ hye",
+        "condition": "Sore Throat",
+        "advice": "Fa nsuo nnɔɔso na dware w'anom. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "ɛho yɛ den",
+        "condition": "Chest Pain",
+        "advice": "Fa ntɔre na sua nsuo. Kɔhwɛ dɔkotani ntɛm."
+    },
+    {
+        "symptom": "ɛfiri wɔn a",
+        "condition": "Diarrhea",
+        "advice": "Tua nsu na nya ahome. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "ɛkɔm de me",
+        "condition": "Hunger",
+        "advice": "Di aduane a ɛfata na sua nsuo."
+    },
+    {
+        "symptom": "nwunu",
+        "condition": "Cold",
+        "advice": "Sɛ wuhu nwunu a, fa ntɔre na tua nsuo."
+    },
+    {
+        "symptom": "ɛkɔm te sɛ dɛn",
+        "condition": "Weakness",
+        "advice": "Fa ntɔre na di aduane a ɛfata. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "me ho yɛ me ya",
+        "condition": "Body Ache",
+        "advice": "Fa ntɔre na tua nsuo. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "ɛho yɛ hu",
+        "condition": "Rash",
+        "advice": "Fa ayare sa ho na sua nsuo. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "ɛho yɛ duru",
+        "condition": "Swelling",
+        "advice": "Sɛnea ɛbɛtumi fa asram yi. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "wura ho",
+        "condition": "Itching",
+        "advice": "Sɛnea ɛbɛtumi sa. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "efie yɛ duru",
+        "condition": "Nausea",
+        "advice": "Sɛ wuhu sɛ ɛrekɔ so, tua nsuo na kɔhwɛ dɔkotani."
+    },
+    {
+        "symptom": "ɛhyerɛn mu",
+        "condition": "Burning Sensation",
+        "advice": "Fa nsuo yɛ nwanwa. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "ɛho yɛ hu na ɛhyerɛn",
+        "condition": "Inflammation",
+        "advice": "Sɛnea ɛbɛtumi, tua nsuo na fa ntɔre. Kɔhwɛ dɔkotani."
+    },
+    {
+        "symptom": "kotodwe",
+        "condition": "Cut",
+        "advice": "Fa nsuo na hohoro no, na de nkuto si ho. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "osuo mu nsusui",
+        "condition": "Drowning",
+        "advice": "Paw no firii osuom, fa ne ho dɛn kɔso ma no. Kɔhwɛ dɔkotani ntɛm."
+    },
+    {
+        "symptom": "ɛho yɛ nwanwa",
+        "condition": "Sprain",
+        "advice": "Fa sɔree no si fam, na de dɛnkyɛ nɔ no. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "aguare",
+        "condition": "Burn",
+        "advice": "Fa nsuo frɛ a ɛyɛ dɛ na de ɔyɛ no. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "ɛho yɛ hɔ",
+        "condition": "Bruise",
+        "advice": "Fa nsuo na hohoro no, na de nkuto si ho. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "awɔ",
+        "condition": "Poisoning",
+        "advice": "Sɔre na suro sɛ ɛbɛtɔ wo. Kɔhwɛ dɔkotani ntɛm."
+    },
+    {
+        "symptom": "ɛho yɛ hye den",
+        "condition": "Severe Bleeding",
+        "advice": "Fa nsuo na tua sɛ ho na de nkuto si ho. Kɔhwɛ dɔkotani ntɛm."
+    },
+    {
+        "symptom": "m'ani twere",
+        "condition": "Eye Injury",
+        "advice": "Fa nsuo na hohoro w'ani mu na twerɛ no. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    },
+    {
+        "symptom": "ɛho yɛ tɔ",
+        "condition": "Fainting",
+        "advice": "Sɔre no na tua nsuo na ma ɔnya ahome. Kɔhwɛ dɔkotani."
+    },
+    {
+        "symptom": "adidibea bi wɛnɛ",
+        "condition": "Food Allergy",
+        "advice": "Tua nsuo na sɔ w'adidibea mu so. Kɔhwɛ dɔkotani sɛ ɛyɛ den."
+    }
+]
